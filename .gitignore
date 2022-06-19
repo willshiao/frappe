@@ -1,0 +1,13 @@
+python/.ipynb_checkpoints
+python/*.pyc
+*.mat
+__pycache__
+*.pkl
+datasets/*
+data/*
+!data/README.md
+!datasets/README.md
+lightning_logs
+wandb
+*.asv
+*.pgf
